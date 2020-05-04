@@ -1,4 +1,3 @@
-# Face-Detection
 
 #Dependencies
 
