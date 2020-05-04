@@ -1,7 +1,7 @@
-#Face-Detection
+# Face-Detection
 
 
-#Dependencies
+# Dependencies
 
 
 1)cv2 , dlib and imutils library for python(All latest version)
@@ -22,6 +22,6 @@ https://pypi.org/project/imutils/#files
 https://github.com/italojs/facial-landmarks-recognition-/blob/master/shape_predictor_68_face_landmarks.dat
 
 
-#Run
+# Run
 
 press 'q' to exit
